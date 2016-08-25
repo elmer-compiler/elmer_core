@@ -1,6 +1,6 @@
 {application, elmer_core,
- [{description, "An OTP library"},
-  {vsn, "0.1.0"},
+ [{description, "Elmer native elm-core functions"},
+  {vsn, "4.0.5"},
   {registered, []},
   {applications,
    [kernel,
